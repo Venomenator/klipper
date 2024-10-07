@@ -1,0 +1,3 @@
+[submodule "macros"]
+	path = macros
+	url = git@github.com:Venomenator/klipper-macros.git
